@@ -1,0 +1,47 @@
+:root{
+	background-color: black;
+}
+.background{
+	background-color: teal;
+	border: 10px dotted teal;
+}
+.text1{
+	border: 5px double green;
+	color: white;
+}
+#heading1{
+	font-family: Georgia, serif;
+}
+p{
+	font-family: Georgia, serif;
+	font-size: 15px;
+	color: white;
+}
+img{
+	width: 50%;
+}
+div > p{
+	color: white;
+}
+b{
+	font-family:  Georgia, serif;
+	font-size: 15px;
+	color: white;
+
+}
+p::first-letter{
+	font-size: 30px;
+	color: green;
+}
+a:hover{
+	background-color: teal;
+}
+h2{
+	color: white;
+}
+label{
+	color: white;
+}
+address{
+	color: white;
+}
